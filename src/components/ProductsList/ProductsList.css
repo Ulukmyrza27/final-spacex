@@ -1,0 +1,28 @@
+.products-list-search {
+  width: 28%;
+  margin-right: 5px;
+}
+
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  justify-content: center;
+}
+.products-search {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 780px) {
+  .products-list-search {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .products-list-search {
+    width: 50%;
+  }
+}

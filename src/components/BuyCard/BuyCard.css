@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css?family=Spartan&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background: url("https://live.staticflickr.com/4174/33547270764_9f0463e8ae_c.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #000000;
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  font-size: 12pt;
+  font-family: "Spartan";
+  color: #ffffff;
+}
+
+.contact-us {
+  padding: 50px 30px;
+  border-top: 10px solid #000000;
+}
+.contact-us label,
+input,
+textarea {
+  display: block;
+  width: 100%;
+  font-size: 12pt;
+  line-height: 24pt;
+  font-family: "Spartan";
+  margin-top: 16px;
+}
+.contact-us input {
+  margin-bottom: 24pt;
+}
+.contact-us h3 {
+  font-weight: normal;
+  font-size: 10pt;
+  line-height: 24pt;
+  font-style: italic;
+  margin: 0 0 0.5em 0;
+  color: #c5b8ff;
+}
+.contact-us span {
+  font-size: 8pt;
+}
+.contact-us em {
+  color: #0212f4;
+  font-weight: bold;
+}
+.contact-us input,
+textarea {
+  border: none;
+  border: 1px solid rgba(202, 202, 202, 0.1);
+  border-radius: 2px;
+  background: #000000;
+  padding-left: 5px;
+  outline: none;
+}
+.contact-us input:focus,
+textarea:focus {
+  border: 1px solid #6bd4b1;
+}
+.contact-us textarea {
+  resize: none;
+}
+.contact-us button {
+  display: block;
+  float: right;
+  line-height: 24pt;
+  padding: 0 20px;
+  border: none;
+  background: #0212f4;
+  color: rgb(255, 255, 255);
+  letter-spacing: 2px;
+  transition: 0.2s all ease-in-out;
+  border-bottom: 2px solid transparent;
+  outline: none;
+  font-size: 18px;
+}
+.contact-us button:hover {
+  background: inherit;
+  color: #0212f4;
+  border-bottom: 2px solid #0212f4;
+}
+.contact-us ::selection {
+  background: #c5b8ff;
+}
+.contact-us input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus {
+  border: 1px solid #6bd4b1;
+  -webkit-text-fill-color: #2a293e;
+  -webkit-box-shadow: 0 0 0px 1000px #f8f4e5 inset;
+  transition: background-color 5000s ease-in-out 0s;
+}
+@media (max-width: 500px) {
+  .contact-us label,
+  input,
+  textarea {
+    font-size: 9pt;
+    margin-top: 11spx;
+  }
+  .contact-us input {
+    margin-bottom: 22pt;
+  }
+  .contact-us h3 {
+    font-size: 8pt;
+  }
+  .contact-us input {
+    margin-bottom: 17pt;
+  }
+}

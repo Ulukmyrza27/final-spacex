@@ -1,0 +1,264 @@
+{
+  "products": [
+    {
+      "model": "Space Hoodie X",
+      "price": 500,
+      "description": "This SpaceX hoodie has a classic unisex design and provides comfort with style. It also comes with a small hidden opening for your earphone cord, and hidden earphone loops. This makes it the perfect hoodie to wear when you want to listen to your favorite tracks on your run. Of course, the hoodie is also nice to wear when you’re having a comfy stay-at-home day.",
+      "type": "Male",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/e83167d881e55f4d721773db65c2ca17_1000x.jpg?v=1638205569",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/780e458526b90a335e1cc1f44fcc108c_1000x.jpg?v=1638205569",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/83ba09b685d89b311f9a279706948d15_1000x.jpg?v=1638205569",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/6780676c38dc2a1db3ee830beaa67c01_1000x.jpg?v=1638205824",
+      "comments": [
+        {
+          "comment": "I love this hoodie!",
+          "name": "makhabat98@gmail.com",
+          "id": 1649862239297
+        }
+      ],
+      "likes": [
+        {
+          "user": "makhabat98@gmail.com",
+          "id": 1649863005129
+        },
+        {
+          "user": "uluk13@gmail.com",
+          "id": 1649934666598
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 4,
+          "name": "uluk.osmonov@gmail.com",
+          "id": 1650135176755
+        },
+        {
+          "rating": 4,
+          "name": "uluk12@gmail.com",
+          "id": 1650440259813
+        }
+      ],
+      "id": 1
+    },
+    {
+      "model": "Occupy Mars Original Hoodie",
+      "price": 450,
+      "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+      "type": "Male",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/a35cf057a0c525545face698f6d7ad42_1000x.jpg?v=1638205824",
+      "imageWhite": "https://www.artistshot.com/assets-3/images/admin/product_design/4922415/occupy-mars-shirt-2-zipper-hoodie.jpg",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/818819dca7f623abe1b680b0bcd04859_1000x.jpg?v=1638205824",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/6780676c38dc2a1db3ee830beaa67c01_1000x.jpg?v=1638205824",
+      "comments": [
+        {
+          "comment": "Nice hoodie!",
+          "name": "uluk13@gmail.com",
+          "id": 1649934162741
+        }
+      ],
+      "likes": [
+        {
+          "user": "makhabat98@gmail.com",
+          "id": 1649863012190
+        },
+        {
+          "user": "uluk13@gmail.com",
+          "id": 1649934169358
+        },
+        {
+          "user": "",
+          "id": 1650009081698
+        },
+        {
+          "user": "ulukmyrza@gmail.com",
+          "id": 1650012376686
+        }
+      ],
+      "ratings": [
+        {
+          "rating": 5,
+          "name": "uluk12@gmail.com",
+          "id": 1650424273842
+        }
+      ],
+      "id": 2
+    },
+    {
+      "model": "Doge to the Moon Hoodie",
+      "price": 100,
+      "description": "The material is a thick blend of cotton and polyester. This makes for a plush, soft feel alongside warmth. It's also a great surface for printing. There are no side seams. A spacious kangaroo pocket hangs in front. The hood's drawstring is the same color as the base sweater.",
+      "type": "Male",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/3c3a780bf1e863331072f359f925e24e_1000x.jpg?v=1638206650",
+      "imageWhite": "https://supplysaints.com/wp-content/uploads/2021/02/34057-4.jpg",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/c21a4147c67b9dc1c7431b0caa32db12_1000x.jpg?v=1638206650",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/d16f4f299e3a1dde8b79b48a57ca1ac8_1000x.jpg?v=1638206650",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {},
+        {
+          "rating": 5,
+          "name": "uluk12@gmail.com",
+          "id": 1650135442300
+        },
+        {
+          "rating": 3,
+          "name": "uluk12@gmail.com",
+          "id": 1650135448715
+        },
+        {
+          "rating": 5,
+          "name": "uluk12@gmail.com",
+          "id": 1650136453366
+        }
+      ],
+      "id": 3
+    },
+    {
+      "model": "After Elon Hoodie",
+      "price": 300,
+      "description": "This hoodie has a classic design and provides comfort with style. Small hidden opening for earphone cord feed and hidden earphone loops make it perfect for listening favorite tracks on the run.",
+      "type": "Male",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/08a52bd94c95b563de1223bc47899e0a_1000x.jpg?v=1638207040",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/b16397546f5671e92a10573e48cfd330_1000x.jpg?v=1638207040",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/96ca8d70fb07096d1be74234a8adc740_1000x.jpg?v=1638207044",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/8bb5e85ba45ac946cfe7c660440e9911_1000x.jpg?v=1638207040",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {},
+        {
+          "rating": 5,
+          "name": "uluk.osmonov@gmail.com",
+          "id": 1650135265990
+        }
+      ],
+      "id": 4
+    },
+    {
+      "model": "Just Launch It FH Hoodie",
+      "price": 150,
+      "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+      "type": "Male",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/5a1409b4f2b591d9f31915400930631a_1000x.jpg?v=1638208485",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/a373619772c173c09fb709ca2505a5a9_800x.jpg?v=1638208685",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/437e3e08284373b4c76f80d17eedc161_1000x.jpg?v=1638208485",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/986eb9030d396adc2bee6f39adba4406_1000x.jpg?v=1638208485",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {}
+      ],
+      "id": 5
+    },
+    {
+      "model": "Of Course I Still Love You Hoodie",
+      "price": 300,
+      "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+      "type": "Female",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/53efb88f149277d0630873226ac7423b_8dae5bb4-1116-474f-86be-fbc90c0b90c0_1000x.jpg?v=1638209296",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/a373619772c173c09fb709ca2505a5a9_1000x.jpg?v=1638208685",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/981742195319485e84338a00fd889a2c_274dfa6f-fd4f-434d-9be1-b89e242615e5_1000x.jpg?v=1638209296",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/a2e6f2b2ad61a74b50e9da76c8a1ff75_2abbc80e-9156-4b85-947a-33825a50312f_1000x.jpg?v=1638209296",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {}
+      ],
+      "id": 6
+    },
+    {
+      "model": "Doge on the Moon Hoodie",
+      "price": 800,
+      "description": "A heavy blend hooded sweatshirt is relaxation itself. The material is a thick blend of cotton and polyester. This makes for a plush, soft feel alongside warmth. It's also a great surface for printing. There are no side seams. A spacious kangaroo pocket hangs in front. The hood's drawstring is the same color as the base sweater.",
+      "type": "Female",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/7da49feb80345c3d50399a1d7909ea97_1000x.jpg?v=1644841222",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/7492e324c00d6df4deb2f8e9b557abc9_1000x.jpg?v=1644841222",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/991f92930b81ed6ee2c66591cf1a01a9_1000x.jpg?v=1644841228",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/04c33713f7ef071b218830a0f7152ac1_1000x.jpg?v=1644841240",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {},
+        {
+          "rating": 5,
+          "name": "uluk.osmonov@gmail.com",
+          "id": 1650135228156
+        },
+        {
+          "rating": 5,
+          "name": "uluk.osmonov@gmail.com",
+          "id": 1650135294292
+        },
+        {
+          "rating": 5,
+          "name": "uluk12@gmail.com",
+          "id": 1650135336961
+        }
+      ],
+      "id": 7
+    },
+    {
+      "model": "Starman and the Dinosaur Hoodie",
+      "price": 1000,
+      "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+      "type": "Female",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/cf5a9de9cf7eafcbc79f4a75b0776149_1000x.jpg?v=1638212583",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/23ef62227a2945f280d56863d097cbcb_1000x.jpg?v=1638212583",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/666ddbcaa20e9727a02e1765f22f0e8c_1000x.jpg?v=1638212583",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/6bff56e43424e6c5631ba7638293331b_1000x.jpg?v=1638212586",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {}
+      ],
+      "id": 8
+    },
+    {
+      "model": "Celebrating Starman Hoodie",
+      "price": 1000,
+      "description": "Crafted for comfort, this lighter weight sweatshirt is perfect for relaxing. Once put on, it will be impossible to take off.",
+      "type": "Female",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/ede3be4640a20822bd693a929d8c1162_1000x.jpg?v=1638212831",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/689f4499077488d14358d571a363f3a2_1000x.jpg?v=1638212831",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/bc236c204e0b2ac643228bb80c2bb2f4_1000x.jpg?v=1638212831",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/014442761fe0ba73c4209997c91c1268_1000x.jpg?v=1638212834",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {}
+      ],
+      "id": 9
+    },
+    {
+      "model": "After Elon Hoodie",
+      "price": 680,
+      "description": "A heavy blend hooded sweatshirt is relaxation itself. The material is a thick blend of cotton and polyester. This makes for a plush, soft feel alongside warmth. It's also a great surface for printing. There are no side seams. A spacious kangaroo pocket hangs in front. The hood's drawstring is the same color as the base sweater.",
+      "type": "Female",
+      "imageBlack": "https://cdn.shopify.com/s/files/1/2041/7077/products/08a52bd94c95b563de1223bc47899e0a_1000x.jpg?v=1638207040",
+      "imageWhite": "https://cdn.shopify.com/s/files/1/2041/7077/products/b16397546f5671e92a10573e48cfd330_1000x.jpg?v=1638207040",
+      "imageBlue": "https://cdn.shopify.com/s/files/1/2041/7077/products/96ca8d70fb07096d1be74234a8adc740_1000x.jpg?v=1638207044",
+      "imageRed": "https://cdn.shopify.com/s/files/1/2041/7077/products/8bb5e85ba45ac946cfe7c660440e9911_1000x.jpg?v=1638207040",
+      "comments": [],
+      "likes": [],
+      "ratings": [
+        {}
+      ],
+      "id": 10
+    },
+    {
+      "model": "m m, ",
+      "price": 18,
+      "description": "l",
+      "type": "k",
+      "imageBlack": "lkml",
+      "imageWhite": "km",
+      "imageBlue": "lkm",
+      "imageRed": "lk",
+      "comments": [],
+      "likes": [],
+      "ratings": [],
+      "id": 11
+    }
+  ]
+}
